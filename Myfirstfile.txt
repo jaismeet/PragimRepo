@@ -1,2 +1,2 @@
 this is my first file created by developer 2  , now it is updated by the developer 1 
-
+the changes for understanding .git file
